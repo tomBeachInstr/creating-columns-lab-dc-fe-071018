@@ -60,6 +60,9 @@ img:hover {
   float: left;
   width: 200%;
 }
+#cherub {
+  clear: both;
+}
 
 
 /* create your tile classes! we recommend .small .med .large */
