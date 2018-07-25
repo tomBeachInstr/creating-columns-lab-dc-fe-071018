@@ -50,7 +50,7 @@ img:hover {
 .cols {
   column-count: 3;
   background-color: red;
-  height: 100px;
+  height: 500px;
 }
 .small {
   float: left;
