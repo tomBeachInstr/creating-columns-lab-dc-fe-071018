@@ -53,6 +53,7 @@ img:hover {
   height: 100px;
 }
 .small {
+  float: left;
   width: 100%;
 }
 
