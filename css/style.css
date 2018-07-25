@@ -52,6 +52,9 @@ img:hover {
   background-color: red;
   height: 100px;
 }
+.small {
+  width: 100%;
+}
 
 
 
